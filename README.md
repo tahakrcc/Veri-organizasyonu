@@ -4,7 +4,6 @@
     Malzeme (Ingredient)
     Depo (Storage)
     Stok (Stock)
-    Yemek Tarifi (Recipe)
 
 # Öznitelikler (Attributes)
 
