@@ -18,4 +18,4 @@
     Yemek Tarifi: "Yemek" ile "Malzeme" arasında M:N
     Stok: "Malzeme" ile "Depo" arasında M:1
     Depo-Stok: "Depo" ile "Stok" arasında 1:M
-![Image](https://github.com/user-attachments/assets/e86cae25-5d46-450f-9c77-cb555c41600e)
+![Image](https://github.com/user-attachments/assets/5e7e3c01-323e-423a-a2d1-c3a04dec5daa)
