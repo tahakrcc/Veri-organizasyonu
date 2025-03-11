@@ -1,1 +1,1 @@
-![er adigaram 2](https://github.com/user-attachments/assets/c043566a-a838-4c84-9a0d-9afb8c5a3015)
+![Image](https://github.com/user-attachments/assets/423bf7de-cdec-4766-9ee5-fed85238e09d)
