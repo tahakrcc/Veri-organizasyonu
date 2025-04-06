@@ -1,1 +1,7 @@
+  #1- 
+π(Başlık, yıl)(kitap)
+  #2
+π(*) (σ(bolum = 'IIS')(öğrenci))
+  #3-
+π(öğrenci.ogrADI, kitap.Başlık) (öğrenci ⨝ odunc ⨝ kitap)
 
