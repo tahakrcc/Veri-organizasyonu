@@ -20,7 +20,7 @@
 
 ## f) 30 yaşından büyük ve IIS de olmayan öğrencilerin adını listeleyiniz.
 
-    π(ogrADI) (σ(yas > 30)(σ(bolum != 'IIS')(öğrenci)))
+    π(ogrADI) (σ(yas > 30)(σ(¬(bolum = 'IIS'))(öğrenci)))
 
 ## g) YAdi alanını Adi olarak değiştiriniz.
 
