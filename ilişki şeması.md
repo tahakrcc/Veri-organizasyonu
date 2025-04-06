@@ -1,6 +1,6 @@
-## a) Her bir kitabın başlığını ve yılını listeleyiniz.
+# a) Her bir kitabın başlığını ve yılını listeleyiniz.
 
-   π(Başlık, yıl)(kitap)
+   ### π(Başlık, yıl)(kitap)
 
 ## b) Bölümü IIS olan öğrencilerin tüm bilgilerini listeleyiniz
 
