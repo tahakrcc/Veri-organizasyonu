@@ -16,11 +16,15 @@
 
 ## e) Sakarya’da yaşayan yazarların isimlerini listeleyiniz.
 
+    π(yAdi) (σ(adres = 'Sakarya')(yazar))
+
 ## f) 30 yaşından büyük ve IIS de olmayan öğrencilerin adını listeleyiniz.
 
     π(ogrADI) (σ(yas > 30)(σ(bolum != 'IIS')(öğrenci)))
 
 ## g) YAdi alanını Adi olarak değiştiriniz.
+
+    cebirsel ifadeler sadece veri sorgulamayla çalışır yani isim değiştirme yapamayız bunun için SQL lazım 
 
 ## h) IIS de okuyan ve bir kitap ödünç alan tüm öğrencileri listeleyiniz.
 
